@@ -3,6 +3,7 @@
 <p align="center">
   <img width="60%" height="60%" src="profile/img/omdena transparent.png">
 </p>
+
 ## About Omdena
 Omdena is a global platform for building AI solutions to real-world problems through collaborative and open innovation. Our mission is to democratize AI and make it accessible to everyone. We collaborate with organizations, companies, and nonprofits around the world to solve some of the most pressing challenges of our time.
 
