@@ -1,7 +1,7 @@
 # Omdena VIT Bhopal University Chapter
 **Welcome to the Omdena VIT Bhopal University Chapter! We are a group of students and professionals passionate about using AI and data science to create positive social impact.**
 <p align="center">
-  <img width="60%" height="60%" src="profile/img/omdena transparent.png">
+  <img width="60%" height="60%" src="https://github.com/user-attachments/assets/54999438-f637-4648-9fee-ebb9c8bad8f1">
 </p>
 
 ## About Omdena
@@ -48,6 +48,6 @@ The Omdena VIT Bhopal University Chapter is a local chapter of Omdena, based at 
 *We look forward to hearing from you and working together to create positive social impact with AI and data science!*
 
 
-## LEADS:-
-1)  [Vaasu Bisht](https://github.com/vaasu2002)
-2)  [Eeman Majumder](https://github.com/Eeman1113)
+## LEADS:
+1)  [Arpit Sengar](https://github.com/arpy8)
+2)  [Rohit Dwivedi](https://github.com/r0xx3d)
