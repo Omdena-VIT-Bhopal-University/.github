@@ -67,6 +67,7 @@ The VIT Bhopal AI Innovators Hub is a community chapter based at the VIT Bhopal 
 ## Contact Us
 **If you have any questions or would like to get involved, please reach out to us:**
 
+-   [Website](https://vitbaih.vercel.app/)
 -   [Email](omdena@vitbhopal.ac.in)
 -   [LinkedIn](https://www.linkedin.com/company/omdena-bhopal-chapter/)
 
