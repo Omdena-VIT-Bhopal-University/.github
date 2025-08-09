@@ -10,6 +10,15 @@
 ## About VIT Bhopal AI Innovators Hub
 The VIT Bhopal AI Innovators Hub is a community chapter based at the VIT Bhopal University. Our goal is to create a community of students and professionals who are interested in AI and data science for social impact. We organize workshops, hackathons, and projects to explore AI's potential to solve real-world problems.
 
+## **Ongoing Project**
+
+### Darzi: AI Resume Tailor Suite
+- **Project:** Develop an AI-powered resume tailoring system that customizes resumes for specific job applications.
+- **Objective:** Create an intelligent platform that helps job seekers optimize their resumes for better job matching and application success rates.
+- **Approach:** Utilize natural language processing and machine learning algorithms to analyze job descriptions and tailor resumes accordingly with multilingual support.
+- **Timeline:**
+  - Project Start Date: July 25th, 2025
+  - Project End Date: August 30th, 2025 (tentative)
 
 ## **Previous Projects**
 
@@ -39,30 +48,11 @@ The VIT Bhopal AI Innovators Hub is a community chapter based at the VIT Bhopal 
 - **Achievement:** Developed a web app and chatbot for solving queries related to BRTS in Bhopal.
 - **Links:** [Project Site](https://www.omdena.com/chapter-challenges/developing-an-ai-chatbot-for-bhopal-bus-rapid-transit-system-navigation) | [DagsHub](https://dagshub.com/Omdena/VITBhopalUniversity_ChatbotforBRTSNavigation)
 
-## **Upcoming Project**
-
-### Darzi: AI Resume Tailor Suite
-- **Project:** Develop an AI-powered resume tailoring system that customizes resumes for specific job applications.
-- **Objective:** Create an intelligent platform that helps job seekers optimize their resumes for better job matching and application success rates.
-- **Approach:** Utilize natural language processing and machine learning algorithms to analyze job descriptions and tailor resumes accordingly with multilingual support.
-- **Why Join Us:**
-  - **Hands-On Experience:** Work on a real-world AI project that has a direct impact on the community
-  - **Collaborative Environment:** Join a team of passionate individuals who are eager to learn, share knowledge and innovate
-  - **Skill Development:** Enhance your expertise in AI, natural language processing and multilingual support systems
-  - **Networking:** Connect with like-minded peers and mentors
-- **Who Can Apply:** Individuals enthusiastic about AI with a problem-solving mindset, from seasoned experts to curious learners
-- **Timeline:**
-  - Application Deadline: July 20th, 2025
-  - Project Start Date: July 25th, 2025 (tentative)
-- **Links:** [Apply Now](https://forms.gle/U6hvR5M8PyN9oyHh7)
-
-
 ## How to Get Involved
 **If you are a student or a professional interested in AI and data science, we welcome you to join us! Here are some ways you can get involved:**
--   **Join our projects:** We collaborate on projects that use AI and data science to create positive social impact. If you are interested in joining one of our projects, reach out to us and let us know.
--   **Attend our workshops and hackathons:** We organize events throughout the year to explore AI's potential to solve real-world problems. Check out our website or social media pages to learn about upcoming events.
+- **Apply through this form**: [Form Link](https://docs.google.com/forms/d/1cZ2kD3BJ3OM5V5pt2aFD96VC0ztlEmDyuY3l7P31IXU/edit)
+-   **Join our projects:** We collaborate on projects that use AI and data science to create positive social impact. If you are interested in joining one of our projects, reach out to us via [mail](mailto:omdena@vitbhopal.ac.in) and let us know.
 -   **Follow us on social media:** We share updates about our events and projects on our social media pages. Follow us to stay up-to-date.
-
 
 ## Contact Us
 **If you have any questions or would like to get involved, please reach out to us:**
@@ -74,6 +64,6 @@ The VIT Bhopal AI Innovators Hub is a community chapter based at the VIT Bhopal 
 *We look forward to hearing from you and working together to create positive social impact with AI and data science!*
 
 
-## LEADS:
+## Chapter Leads:
 1)  [Arpit Sengar](https://github.com/arpy8)
 2)  [Rohit Dwivedi](https://github.com/r0xx3d)
